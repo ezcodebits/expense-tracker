@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+
+# Environment variables
+.env
+
+# Expense data
+data/*
+!data/.gitkeep
+
+# OS files
+.DS_Store
+Thumbs.db
